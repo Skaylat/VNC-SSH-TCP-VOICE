@@ -1,0 +1,14 @@
+C:\Users\Adam\Downloads\NVNC-master1\NVNC\bin\Debug\NVNC.dll
+C:\Users\Adam\Downloads\NVNC-master1\NVNC\bin\Debug\NVNC.pdb
+C:\Users\Adam\Downloads\NVNC-master1\NVNC\bin\Debug\MiscUtil.dll
+C:\Users\Adam\Downloads\NVNC-master1\NVNC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adam\Downloads\NVNC-master1\NVNC\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Adam\Downloads\NVNC-master1\NVNC\bin\Debug\MiscUtil.pdb
+C:\Users\Adam\Downloads\NVNC-master1\NVNC\bin\Debug\MiscUtil.xml
+C:\Users\Adam\Downloads\NVNC-master1\NVNC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adam\Downloads\NVNC-master1\NVNC\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Adam\Downloads\NVNC-master1\NVNC\obj\Debug\NVNC.csprojAssemblyReference.cache
+C:\Users\Adam\Downloads\NVNC-master1\NVNC\obj\Debug\NVNC.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Downloads\NVNC-master1\NVNC\obj\Debug\NVNC.csproj.CopyComplete
+C:\Users\Adam\Downloads\NVNC-master1\NVNC\obj\Debug\NVNC.dll
+C:\Users\Adam\Downloads\NVNC-master1\NVNC\obj\Debug\NVNC.pdb

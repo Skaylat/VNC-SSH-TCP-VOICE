@@ -1,0 +1,25 @@
+C:\Users\Adam\source\repos\clientChat\clientChat\obj\Debug\ClientForm.Form1.resources
+C:\Users\Adam\source\repos\clientChat\clientChat\obj\Debug\clientChat.Properties.Resources.resources
+C:\Users\Adam\source\repos\clientChat\clientChat\obj\Debug\clientChat.csproj.GenerateResource.cache
+C:\Users\Adam\source\repos\clientChat\clientChat\obj\Debug\clientChat.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\clientChat\clientChat\bin\Debug\clientChat.exe.config
+C:\Users\Adam\source\repos\clientChat\clientChat\bin\Debug\clientChat.exe
+C:\Users\Adam\source\repos\clientChat\clientChat\bin\Debug\clientChat.pdb
+C:\Users\Adam\source\repos\clientChat\clientChat\bin\Debug\NAudio.dll
+C:\Users\Adam\source\repos\clientChat\clientChat\bin\Debug\NAudio.xml
+C:\Users\Adam\source\repos\clientChat\clientChat\obj\Debug\clientChat.csproj.CopyComplete
+C:\Users\Adam\source\repos\clientChat\clientChat\obj\Debug\clientChat.exe
+C:\Users\Adam\source\repos\clientChat\clientChat\obj\Debug\clientChat.pdb
+C:\Users\Adam\source\repos\clientChat\clientChat\obj\Debug\clientChat.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\PROJ STAGE\clientChat\clientChat\bin\Debug\clientChat.exe.config
+C:\Users\Adam\Desktop\PROJ STAGE\clientChat\clientChat\bin\Debug\clientChat.exe
+C:\Users\Adam\Desktop\PROJ STAGE\clientChat\clientChat\bin\Debug\clientChat.pdb
+C:\Users\Adam\Desktop\PROJ STAGE\clientChat\clientChat\bin\Debug\NAudio.xml
+C:\Users\Adam\Desktop\PROJ STAGE\clientChat\clientChat\obj\Debug\clientChat.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\PROJ STAGE\clientChat\clientChat\obj\Debug\ClientForm.Form1.resources
+C:\Users\Adam\Desktop\PROJ STAGE\clientChat\clientChat\obj\Debug\clientChat.Properties.Resources.resources
+C:\Users\Adam\Desktop\PROJ STAGE\clientChat\clientChat\obj\Debug\clientChat.csproj.GenerateResource.cache
+C:\Users\Adam\Desktop\PROJ STAGE\clientChat\clientChat\obj\Debug\clientChat.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\PROJ STAGE\clientChat\clientChat\obj\Debug\clientChat.csproj.CopyComplete
+C:\Users\Adam\Desktop\PROJ STAGE\clientChat\clientChat\obj\Debug\clientChat.exe
+C:\Users\Adam\Desktop\PROJ STAGE\clientChat\clientChat\obj\Debug\clientChat.pdb

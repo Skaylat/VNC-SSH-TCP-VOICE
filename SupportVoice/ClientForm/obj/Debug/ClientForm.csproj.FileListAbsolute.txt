@@ -1,0 +1,13 @@
+C:\Users\Adam\Downloads\MDL-Network-Chat-master\ClientForm\ClientForm\obj\Debug\ClientForm.csprojAssemblyReference.cache
+C:\Users\Adam\Downloads\MDL-Network-Chat-master\ClientForm\ClientForm\obj\Debug\ClientForm.Form1.resources
+C:\Users\Adam\Downloads\MDL-Network-Chat-master\ClientForm\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+C:\Users\Adam\Downloads\MDL-Network-Chat-master\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.cache
+C:\Users\Adam\Downloads\MDL-Network-Chat-master\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Downloads\MDL-Network-Chat-master\ClientForm\ClientForm\bin\Debug\ClientForm.exe.config
+C:\Users\Adam\Downloads\MDL-Network-Chat-master\ClientForm\ClientForm\bin\Debug\ClientForm.exe
+C:\Users\Adam\Downloads\MDL-Network-Chat-master\ClientForm\ClientForm\bin\Debug\ClientForm.pdb
+C:\Users\Adam\Downloads\MDL-Network-Chat-master\ClientForm\ClientForm\bin\Debug\NAudio.dll
+C:\Users\Adam\Downloads\MDL-Network-Chat-master\ClientForm\ClientForm\bin\Debug\NAudio.xml
+C:\Users\Adam\Downloads\MDL-Network-Chat-master\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.CopyComplete
+C:\Users\Adam\Downloads\MDL-Network-Chat-master\ClientForm\ClientForm\obj\Debug\ClientForm.exe
+C:\Users\Adam\Downloads\MDL-Network-Chat-master\ClientForm\ClientForm\obj\Debug\ClientForm.pdb
